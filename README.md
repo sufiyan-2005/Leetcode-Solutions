@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
