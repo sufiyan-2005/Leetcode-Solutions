@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
