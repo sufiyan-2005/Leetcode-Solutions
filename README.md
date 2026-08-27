@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
