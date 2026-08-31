@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
