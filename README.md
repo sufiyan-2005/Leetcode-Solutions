@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
