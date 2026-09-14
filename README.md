@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [3870-count-commas-in-range](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
