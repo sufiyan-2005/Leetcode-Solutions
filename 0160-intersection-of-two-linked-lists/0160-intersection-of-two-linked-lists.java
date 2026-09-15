@@ -18,6 +18,6 @@ public class Solution {
                 p2 = headA;
             }
         }
-        return p1;
+        return p2;
     }
 }
