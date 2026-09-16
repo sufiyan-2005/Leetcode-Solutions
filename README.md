@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -156,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
