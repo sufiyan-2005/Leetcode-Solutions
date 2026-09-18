@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Trie
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
