@@ -1,15 +1,15 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
         //finding size of LL
-        int sz = 0;
+        int size = 0;
         ListNode temp = head;
         while(temp != null){
+            size++;
             temp = temp.next;
-            sz++;
         }
 
         //copy element from LL to array
-        int[] arr = new int[sz];
+        int[] arr = new int[size];
         temp = head;
         int i = 0;
         while(temp != null){
@@ -20,24 +20,21 @@ class Solution {
 
         // finding the position of kth node from beginning
         int left = k - 1;
-
         // finding the position of kth node from the end
-        int right = sz - k;
+        int right = size - k;
 
         //Now swap
-        int swap = arr[left];
+        int Ntemp = arr[left];
         arr[left] = arr[right];
-        arr[right] = swap;
+        arr[right] = Ntemp;
 
         //convert arr to LinkedList
         ListNode newHead = new ListNode(arr[0]);
         ListNode curr = newHead;
-
-        for(int j=1; j<sz; j++){
-            curr.next = new ListNode(arr[j]); 
+        for(int j = 1; j<size; j++){
+            curr.next = new ListNode(arr[j]);
             curr = curr.next;
         }
-
         return newHead;
     }
 }
