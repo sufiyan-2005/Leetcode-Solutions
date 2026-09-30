@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
