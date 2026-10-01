@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
