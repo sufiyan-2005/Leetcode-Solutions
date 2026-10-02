@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
