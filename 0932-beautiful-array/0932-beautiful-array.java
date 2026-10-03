@@ -19,11 +19,10 @@ class Solution {
             }
             ans = temp;
         }
-
         int[] result = new int[ans.size()];
         for(int i=0; i<ans.size(); i++){
             result[i] = ans.get(i);
         }
-        return result;     
+        return result;
     }
 }
