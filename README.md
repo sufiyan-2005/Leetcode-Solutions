@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0932-beautiful-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2965-find-missing-and-repeated-values](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2596-check-knight-tour-configuration](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
