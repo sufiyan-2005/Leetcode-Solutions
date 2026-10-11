@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
