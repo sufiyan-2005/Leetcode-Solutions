@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
