@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Database
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
