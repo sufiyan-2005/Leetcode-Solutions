@@ -2,7 +2,7 @@ class Solution {
     public ListNode findMid(ListNode head){
         ListNode slow = head;
         ListNode fast = head;
-        while(fast != null && fast.next != null){
+        while(fast != null && fast.next !=  null){
             slow = slow.next;
             fast = fast.next.next;
         }
@@ -16,7 +16,6 @@ class Solution {
         }
         ListNode mid = findMid(head);
 
-        //reverse 2nd half
         ListNode prev = null;
         ListNode curr = mid;
         ListNode next;
@@ -26,10 +25,11 @@ class Solution {
             prev = curr;
             curr = next;
         }
+
         ListNode right = prev;
         ListNode left = head;
 
-       while(right != null){
+        while(right != null){
             if(left.val != right.val){
                 return false;
             }
