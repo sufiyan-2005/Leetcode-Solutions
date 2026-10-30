@@ -1,41 +1,28 @@
 class Solution {
-    public ListNode findMid(ListNode head){
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast != null && fast.next !=  null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
-    }
-
     public boolean isPalindrome(ListNode head) {
-        int val;
-        if(head == null || head.next == null){
-            return true;
-        }
-        ListNode mid = findMid(head);
+        Stack<Integer> st = new Stack<>();
 
-        ListNode prev = null;
-        ListNode curr = mid;
-        ListNode next;
+        // Now push all the element of the linked list inside the stack
+        ListNode curr = head;
         while(curr != null){
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            int val;
+            st.push(curr.val);
+            curr = curr.next;
         }
 
-        ListNode right = prev;
-        ListNode left = head;
+        //we will check if the curr node of linked list is same as top of the stack or not
+        curr = head;
+        while(st.size()>0){
 
-        while(right != null){
-            if(left.val != right.val){
+            //linked list is not palindrome 
+            if(curr.val != st.peek()){
                 return false;
+            }else{
+                st.pop();
+                curr = curr.next;
             }
-            left = left.next;
-            right = right.next;
         }
+        //linked list is a palindrome 
         return true;
     }
 }
