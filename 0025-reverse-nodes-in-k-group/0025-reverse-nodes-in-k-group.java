@@ -24,6 +24,6 @@ class Solution {
             temp = next;
             count++;
         }
-        return prevNode;
+       return prevNode;
     }
 }
