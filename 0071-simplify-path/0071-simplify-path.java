@@ -6,12 +6,15 @@ class Solution {
         //stack to store all the names from arr (array)
         Stack<String> st = new Stack<>();
 
+        //we will iterate through each word  in array and
+        // try to put them inside the stack
         for(int i=0; i<arr.length; i++){
             String curr = arr[i];
             if(curr.equals("") || curr.equals(".")){
                 //skip
                 continue;
             }else if(curr.equals("..")){
+                //your curr is ( // ) and st has element then pop
                 if(st.size()>0){
                     st.pop();
                 }
