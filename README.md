@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sufiyan-2005/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
