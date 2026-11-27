@@ -1,37 +1,38 @@
 class Solution {
     public String simplifyPath(String path) {
         //store all the name inside the array
-        String arr[] = path.split("/");
+        String[] arr = path.split("/");
 
-        //stack to store all the names from arr (array)
+        //stack to store the name from the array
         Stack<String> st = new Stack<>();
 
-        //we will iterate through each word  in array and
-        // try to put them inside the stack
+        //we will iterate through each element in the array
+        //try to put them inside the stack
         for(int i=0; i<arr.length; i++){
             String curr = arr[i];
+
             if(curr.equals("") || curr.equals(".")){
-                //skip
+                //then skip
                 continue;
             }else if(curr.equals("..")){
-                //your curr is ( // ) and st has element then pop
-                if(st.size()>0){
+                // curr is // and st has element at the top 
+                if(st.size() > 0){
                     st.pop();
                 }
             }else{
                 st.push(curr);
             }
         }
+        StringBuilder sb = new StringBuilder();
 
-        StringBuilder ans = new StringBuilder();
-        for(String ele : st){
-            ans.append("/");
-            ans.append(ele);
+        for(String ele: st){
+            sb.append("/");
+            sb.append(ele);
         }
-        if(ans.length()==0){
-            return "/";
+        if(sb.length() == 0){
+            return"/";
         }else{
-            return ans.toString();
+            return sb.toString();
         }
     }
 }
